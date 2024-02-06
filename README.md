@@ -1,6 +1,7 @@
 # Expense-Tracker-App Using MERN Stack
 • The expense tracker app offers to users a convenient platform to manage their finances. Upon registering and logging
 in, users are presented with a personalized dashboard showcasing their expense summary and statistics.
+<br>
 • Adding new expenses is easy, with fields for category, and amount. The app maintains an organized expense list.
 They can also edit or delete expenses when necessary. The app’s analytics feature presents visualizations that offer
 insights into spending patterns over time.
